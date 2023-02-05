@@ -93,9 +93,9 @@ yarn test ./scr/__tests__/integration/<subpasta>/<arquivo>
 yarn test -t <describe ou test específico envolto em aspas>
 ````
 ````
-\\ ex: yarn test -t "/categories"
-\\ rodaria os testes do describe "/categorias" no caminho
-\\ ./scr/__tests__/integration/categories/categoriesRoutes.test.ts
+\\ ex: yarn test -t "/contacts"
+\\ rodaria os testes do describe "/contacts" no caminho
+\\ ./scr/__tests__/integration/contacts/contactsRoutes.test.ts
 ````
 
 <br>
